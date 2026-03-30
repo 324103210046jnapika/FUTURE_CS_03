@@ -8,7 +8,7 @@ The objective of this task is to analyze the security of a public API and identi
 ## Tools Used
 - Browser (Google Chrome)
 - Browser Developer Tools
-- Public API (JSONPlaceholder)
+- Public API – JSONPlaceholder
 - Manual Security Analysis
 
 ---
@@ -136,7 +136,7 @@ The screenshot below shows API response exposing user data without authenticatio
 1. Attacker accesses the API  
 2. No authentication required  
 3. Data is retrieved easily  
-4. Data can be misused  
+4. Data can be misused for phishing or spam  
 
 ---
 
@@ -161,6 +161,18 @@ This task helped in understanding API security risks such as data exposure, lack
 
 ---
 
+## Skills Gained
+
+- API Security Analysis  
+- Risk Identification  
+- Authentication & Authorization Analysis  
+- Security Documentation  
+- Understanding of API vulnerabilities  
+
+---
+
 ## Conclusion
 
-The API contains security risks like excessive data exposure and lack of authentication. Implementing proper security controls can improve API security and prevent misuse.
+The API security analysis revealed critical risks such as excessive data exposure and lack of authentication. These vulnerabilities can allow unauthorized access and misuse of sensitive information.
+
+Implementing proper security controls such as authentication, authorization, rate limiting, and data filtering can significantly improve API security and protect against potential attacks.
