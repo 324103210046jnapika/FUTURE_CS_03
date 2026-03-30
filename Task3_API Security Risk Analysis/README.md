@@ -127,7 +127,7 @@ Inputs are not strictly validated.
 
 The screenshot below shows API response exposing user data without authentication.
 
-![API Response](api_test_screenshot.png)
+![API Response](api_screenshot.png)
 
 ---
 
